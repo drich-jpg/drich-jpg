@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a few websites, one is a personal portfolio page and the other is a showcase of plants found around San Diego county
 - 🌱 I’m currently learning Javascript and PHP to make interactive and dynamic websites
-- 🔗 <a href="davidrichards.me">davidrichards.me</a>
+- 🔗 <a href="http://davidrichards.me">davidrichards.me</a>
 
 <!--
 **drich-jpg/drich-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
