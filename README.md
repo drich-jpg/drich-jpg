@@ -3,8 +3,10 @@
 - 🔭 I’m currently working on a few websites, one is a personal portfolio page and the other is a showcase of plants found around San Diego county
 - 🌱 I’m currently learning Javascript and PHP to make interactive and dynamic websites
 - 🔗 <a href="http://davidrichards.me">davidrichards.me</a>
-- 🌴 San Diego Native Plants <a href="https://davidrichards.me/san-diego-native-plants/index.html">Homepage</a> | <a href="https://davidrichards.me/san-diego-native-plants/flashcards.html">Flashcards Page</a> | <a href="https://davidrichards.me/san-diego-native-plants/quiz.html">Quiz Page
+
+Here are a few of my projects:
 - 🔇 <a href="https://davidrichards.me/projects/san-diego-noise-pollution/index.html">San Diego Noise Pollution Maps</a>
+- 🌴 San Diego Native Plants <a href="https://davidrichards.me/san-diego-native-plants/index.html">Homepage</a> | <a href="https://davidrichards.me/san-diego-native-plants/flashcards.html">Flashcards Page</a> | <a href="https://davidrichards.me/san-diego-native-plants/quiz.html">Quiz Page
 <!--
 **drich-jpg/drich-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
