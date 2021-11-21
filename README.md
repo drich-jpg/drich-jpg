@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascript and PHP to make interactive and dynamic websites
 - 🔗 <a href="http://davidrichards.me">davidrichards.me</a>
 - 🌴 San Diego Native Plants <a href="https://davidrichards.me/san-diego-native-plants/index.html">Homepage</a> | <a href="https://davidrichards.me/san-diego-native-plants/flashcards.html">Flashcards Page</a> | <a href="https://davidrichards.me/san-diego-native-plants/quiz.html">Quiz Page
-- 🔇 San Diego Noise Maps <a href="https://davidrichards.me/projects/san-diego-noise-pollution/index.html">Main Page</a>
+- 🔇 <a href="https://davidrichards.me/projects/san-diego-noise-pollution/index.html">San Diego Noise Pollution Maps</a>
 <!--
 **drich-jpg/drich-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
